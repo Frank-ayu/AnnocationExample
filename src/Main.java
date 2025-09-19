@@ -1,5 +1,6 @@
 /**
  * 主类，测试@LogExecutionTime注解功能
+ *
  */
 public class Main {
     public static void main(String[] args) {
